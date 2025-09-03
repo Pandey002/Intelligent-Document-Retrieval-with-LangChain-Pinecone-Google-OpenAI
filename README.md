@@ -1,0 +1,1 @@
+# Intelligent-Document-Retrieval-with-LangChain-Pinecone-Google-OpenAI
